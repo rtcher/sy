@@ -4,33 +4,24 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="625cb720-bfa9-420e-9ebb-157207432e42" name="更改" comment="321" />
+    <list default="true" id="d7d2a4e3-ba2b-4958-a725-2286f305eb5b" name="更改" comment="1.0" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="user1 &lt;2735957020@qq.com&gt;" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "shadow-under-the-moon"
-  }
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 6
 }]]></component>
-  <component name="GithubPullRequestsUISettings">
-    <option name="selectedUrlAndAccountId">
-      <UrlAndAccount>
-        <option name="accountId" value="dd53d0a3-3104-4647-9a3f-8a20c8d0f19d" />
-        <option name="url" value="https://github.com/rtcher/sy.git" />
-      </UrlAndAccount>
-    </option>
-  </component>
-  <component name="ProjectColorInfo">{
-  &quot;associatedIndex&quot;: 5
-}</component>
-  <component name="ProjectId" id="2Yc9v5teuQCJrcCRYLbNuxS2w8i" />
+  <component name="ProjectId" id="2Yvy0MbfCJKIF2JGcoCmUkJWDFX" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -40,64 +31,77 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "D:/Test/sy",
-    "onboarding.tips.debug.path": "D:/Test/sy/src/Main.java",
-    "settings.editor.selected.configurable": "vcs.Subversion"
+    "git-widget-placeholder": "main"
   }
 }]]></component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="sy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="sy" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
-    <configuration>C:\Users\24432\AppData\Roaming\Subversion</configuration>
+    <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="默认任务">
-      <changelist id="625cb720-bfa9-420e-9ebb-157207432e42" name="更改" comment="" />
-      <created>1700814229654</created>
+      <changelist id="d7d2a4e3-ba2b-4958-a725-2286f305eb5b" name="更改" comment="1" />
+      <created>1701420123535</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1700814229654</updated>
+      <updated>1701420123535</updated>
     </task>
     <task id="LOCAL-00001" summary="321">
       <option name="closed" value="true" />
-      <created>1701419986625</created>
+      <created>1701420232927</created>
       <option name="number" value="00001" />
       <option name="presentableId" value="LOCAL-00001" />
       <option name="project" value="LOCAL" />
-      <updated>1701419986625</updated>
+      <updated>1701420232927</updated>
     </task>
-    <task id="LOCAL-00002" summary="321">
+    <task id="LOCAL-00002" summary="4.0">
       <option name="closed" value="true" />
-      <created>1701420045547</created>
+      <created>1701420270457</created>
       <option name="number" value="00002" />
       <option name="presentableId" value="LOCAL-00002" />
       <option name="project" value="LOCAL" />
-      <updated>1701420045547</updated>
+      <updated>1701420270457</updated>
     </task>
-    <task id="LOCAL-00003" summary="321">
+    <task id="LOCAL-00003" summary="4.1">
       <option name="closed" value="true" />
-      <created>1701420205591</created>
+      <created>1701420343332</created>
       <option name="number" value="00003" />
       <option name="presentableId" value="LOCAL-00003" />
       <option name="project" value="LOCAL" />
-      <updated>1701420205591</updated>
+      <updated>1701420343332</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="1.0">
+      <option name="closed" value="true" />
+      <created>1701420448107</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1701420448107</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State />
-          </value>
-        </entry>
-      </map>
-    </option>
-  </component>
   <component name="VcsManagerConfiguration">
+    <MESSAGE value="1" />
     <MESSAGE value="321" />
-    <option name="LAST_COMMIT_MESSAGE" value="321" />
+    <MESSAGE value="4.0" />
+    <MESSAGE value="4.1" />
+    <MESSAGE value="1.0" />
+    <option name="LAST_COMMIT_MESSAGE" value="1.0" />
   </component>
 </project>
