@@ -1,7 +1,7 @@
 import javax.swing.*;
 
 public class 银行登录 {
-    private JButton 登录Button;
+    private JButton 登录按钮;
     private JPanel 登录界面;
     private JList 标题;
     private JTextField 请输入账号密码;
