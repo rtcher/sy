@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<form xmlns="http://www.intellij.com/uidesigner/form/" version="1" bind-to-class="银行登录">
+  <grid id="27dc6" binding="panel1" default-binding="true" layout-manager="GridLayoutManager" row-count="2" column-count="1" same-size-horizontally="false" same-size-vertically="false" hgap="1" vgap="1">
+    <margin top="0" left="0" bottom="0" right="0"/>
+    <constraints>
+      <xy x="20" y="20" width="500" height="400"/>
+    </constraints>
+    <properties>
+      <background color="-15778242"/>
+    </properties>
+    <border type="none"/>
+    <children>
+      <component id="2b90a" class="javax.swing.JButton" binding="登录Button" custom-create="true" default-binding="true">
+        <constraints>
+          <grid row="1" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="2" fill="1" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <text value="登录"/>
+        </properties>
+      </component>
+      <component id="841f" class="javax.swing.JList" binding="标题" custom-create="true">
+        <constraints>
+          <grid row="0" column="0" row-span="1" col-span="1" vsize-policy="6" hsize-policy="2" anchor="1" fill="0" indent="0" use-parent-layout="false">
+            <minimum-size width="1" height="-1"/>
+            <preferred-size width="200" height="60"/>
+          </grid>
+        </constraints>
+        <properties>
+          <background color="-15778242"/>
+          <font size="26" style="1"/>
+          <foreground color="-16777216"/>
+          <layoutOrientation value="2"/>
+          <model>
+            <item value="欢迎使用ATM机"/>
+          </model>
+          <opaque value="false"/>
+          <selectionMode value="0"/>
+        </properties>
+      </component>
+    </children>
+  </grid>
+</form>
