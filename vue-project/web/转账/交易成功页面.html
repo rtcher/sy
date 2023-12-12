@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<style>
+    .background{
+        width: 957px;
+        height: 680px;
+        background-image: url(../back.png);
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+    .notice{
+        text-align: center;
+        position: absolute;
+        font-family: STKaiti;
+        font-size: 50px;
+        left: 250px;
+        bottom:380px;
+    }
+    .s1{
+        position:absolute;
+        left:10px;
+        bottom:200px;
+    }
+    .s2 {
+        position: absolute;
+        left: 815px;
+        bottom: 200px;
+    }
+    .s3{
+        position: absolute;
+        left: 815px;
+        bottom: 100px;
+    }
+</style>
+<body>
+<div class="background">
+</div>
+<div class="notice">
+    交易成功，请选择操作
+</div>
+<div class="s1">
+    <input type="button" style=" width: 150px;height: 50px;" value="返回选择页面" onclick="{location.href='../选择页面.html'}">
+</div>
+<div class="s2">
+    <input type="button" style=" width: 150px;height: 50px;" value="退卡" onclick="{location.href='../退卡页面.html'}">
+</div>
+<div class="s3">
+    <input type="button" style=" width: 150px;height: 50px;" value="打印凭条" onclick="{location.href='凭条打印页面.html'}">
+</div>
+</body>
+</html>

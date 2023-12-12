@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<style>
+    .background{
+        width: 957px;
+        height: 680px;
+        background-image: url(../back.png);
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+    .notice{
+        text-align: center;
+        position: absolute;
+        font-family: STKaiti;
+        font-size: 50px;
+        left: 200px;
+        bottom:380px;
+    }
+    .s1{
+        position:absolute;
+        left:815px;
+        bottom:200px;
+    }
+    .s2 {
+        position: absolute;
+        left: 10px;
+        bottom: 200px;
+    }
+    .s3{
+        position:absolute;
+        text-align: center;
+        left:330px;
+        bottom:300px;
+        background: white;
+    }
+</style>
+<body>
+<div class="background">
+</div>
+<div class="notice">
+    您本次存入的现金明细如下
+</div>
+<div class="s1">
+    <input type="button" style=" width: 150px;height: 50px;" value="继续存款" onclick="{location.href='存款页面.html'}">
+</div>
+<div class="s2">
+    <input type="button" style=" width: 150px;height: 50px;" value="返回" onclick="{location.href='../选择页面.html'}">
+</div>
+<div class="s3">
+    <table border="1px">
+        <tr>
+            <td>面值</td>
+            <td>张数</td>
+            <td>金额</td>
+        </tr>
+        <tr>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>合计：</td>
+        </tr>
+    </table>
+</div>
+</body>
+</html>

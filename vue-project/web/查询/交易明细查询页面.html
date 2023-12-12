@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<style>
+    .background{
+        width: 957px;
+        height: 680px;
+        background-image: url(../back.png);
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+    .notice{
+        text-align: center;
+        position: absolute;
+        font-family: STKaiti;
+        font-size: 50px;
+        left: 360px;
+        bottom:380px;
+    }
+    .s1{
+        position:absolute;
+        left:815px;
+        bottom:200px;
+    }
+    .s2 {
+        position: absolute;
+        left: 815px;
+        bottom: 100px;
+    }
+    .s3{
+        position:absolute;
+        text-align: center;
+        left:400px;
+        bottom:300px;
+        background: white;
+    }
+</style>
+<body>
+<div class="background">
+</div>
+<div class="notice">
+    交易明细查询
+</div>
+<div class="s1">
+    <input type="button" style=" width: 150px;height: 50px;" value="返回" onclick="{location.href='查询页面.html'}">
+</div>
+<div class="s2">
+    <input type="button" style=" width: 150px;height: 50px;" value="退卡" onclick="{location.href='../退卡页面.html'}">
+</div>
+<div class="s3">
+    <table border="1px">
+        <tr>
+            <td>交易日期</td>
+            <td>交易金额</td>
+            <td>交易类型</td>
+        </tr>
+        <tr>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+    </table>
+</div>
+</body>
+</html>
